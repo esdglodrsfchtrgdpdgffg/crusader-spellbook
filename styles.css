@@ -1,0 +1,22 @@
+#deusvult{
+    width:300px;
+}
+#holyland{
+    width:300px;
+}
+#saracen{
+    width:300px;
+}
+#shield{
+    width:300px;
+}
+body{
+    font-family: "arial";
+    color:black;
+    background-image:url(https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg);
+    background-size:100%;
+    text-align: center;
+}
+.spells{
+        
+}
